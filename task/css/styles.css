@@ -1,0 +1,187 @@
+body {
+  background-color: #DCD7C9;
+  margin: 0 100px 0 100px;
+}
+
+p {
+  margin: 0;
+  padding-top: 10px;
+  padding-left: 20px;
+}
+
+table {
+  background-color: #F1EEE9;
+  width: 90%;
+}
+
+h1 {
+  color: white;
+  font-family: 'Merriweather', sans-serif;
+  font-size: 50px;
+  font-weight: 100;
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-top: 150px;
+  padding-left: 500px;
+}
+
+h2 {
+  font-family: 'Merriweather', sans-serif;
+  margin: 0;
+  padding-top: 20px;
+  padding-left: 25px;
+}
+
+h3 {
+  font-family: 'Merriweather', sans-serif;
+  margin: 0;
+  padding-top: 20px;
+  padding-left: 25px;
+}
+
+h4 {
+  font-family: 'Merriweather', sans-serif;
+  padding-left: 20px;
+}
+
+h5 {
+  text-align: center;
+  padding: 40px;
+}
+
+.leftp {
+  font-family: 'Merriweather', sans-serif;
+  padding: 25px;
+}
+
+.leftpa {
+  font-family: 'Merriweather', sans-serif;
+  width: 25%;
+}
+
+.first {
+  word-spacing: 40px;
+  color: white;
+  padding-top: 10px;
+}
+
+.logo {
+  height: 75px;
+  width: 150px;
+}
+
+.logo1 {
+  height: 25px;
+  padding-left: 880px;
+}
+
+.one {
+  background-color: white;
+  height: 75px;
+}
+
+.two {
+  background-color: #1B2430;
+  height: 60px;
+  margin-top: 0;
+}
+
+.three {
+  height: 400px;
+  width: 100%;
+  background-color: #a0bb2e;
+  margin-top: 15px;
+}
+
+.left {
+  background-color: white;
+  width: 30%;
+  margin-top: 75px;
+  position: relative;
+  bottom: 2px;
+}
+
+.middle {
+  background-color: white;
+  width: 30%;
+  position: relative;
+  left: 460px;
+  bottom: 191px;
+}
+
+.right {
+  background-color: white;
+  width: 30%;
+  position: relative;
+  left: 925px;
+  bottom: 380px;
+}
+
+.mleft {
+  background-color: white;
+  width: 70%;
+  position: relative;
+  bottom: 350px;
+}
+
+.mright {
+  background-color: white;
+  width: 30%;
+  position: relative;
+  bottom: 668px;
+  left: 923px;
+  height: 318px;
+}
+
+.galli {
+  text-align: center;
+  position: relative;
+  bottom: 656px;
+}
+
+.a {
+  background-color: #5eb1cf;
+  height: 100px;
+  width: 24%;
+  position: relative;
+  bottom: 650px;
+}
+
+.b {
+  background-color: #a0bb2e;
+  height: 100px;
+  width: 24%;
+  position: relative;
+  left: 334px;
+  bottom: 773px;
+}
+
+.c {
+  background-color: #f6bd3c;
+  height: 100px;
+  width: 24%;
+  position: relative;
+  bottom: 895px;
+  left: 669px;
+}
+
+.d {
+  background-color: #ed5758;
+  height: 100px;
+  width: 24%;
+  position: relative;
+  bottom: 1017px;
+  left: 1004px;
+}
+
+.last {
+  background-color: white;
+  position: relative;
+  bottom: 950px;
+}
+
+.last1 {
+  color: #a0bb2e;
+  padding-left: 1000px;
+  padding-bottom: 20px;
+}
